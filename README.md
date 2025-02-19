@@ -1,6 +1,8 @@
 # Plant Disease Prediction Using Machine Learning
 Plant Disease Prediction Using Machine Learning 
 
+![Image](https://github.com/user-attachments/assets/152069e5-43b4-4355-b95c-8e037e0c949c)
+
 ## Youtube Link: 
 
 ### Abstract: 
