@@ -1,2 +1,2 @@
-# Plan-Disease-Prediction-Using-Machine-Learning
-Plan Disease Prediction Using Machine Learning 
+# Plant Disease Prediction Using Machine Learning
+Plant Disease Prediction Using Machine Learning 
